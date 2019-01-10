@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+
+  font-family: 'Source Sans Pro', sans-serif;
+
+  background-image: linear-gradient(#B70071, #1E0095);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+.video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
